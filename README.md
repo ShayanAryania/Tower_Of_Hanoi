@@ -1,5 +1,5 @@
 # Tower_Of_Hanoi
-The Tower of Hanoi (also called The problem of Benares Temple[1] or Tower of Brahma or Lucas' Tower and sometimes pluralized as Towers, or simply pyramid puzzle) 
+The Tower of Hanoi (also called The problem of Benares Temple or Tower of Brahma or Lucas' Tower and sometimes pluralized as Towers, or simply pyramid puzzle) 
 is a mathematical game or puzzle consisting of three rods and a number of disks of various diameters,
 which can slide onto any rod. The puzzle begins with the disks stacked on one rod in order of decreasing size,
 the smallest at the top, thus approximating a conical shape. The objective of the puzzle is to move the entire stack to the last rod, obeying the following rules:
